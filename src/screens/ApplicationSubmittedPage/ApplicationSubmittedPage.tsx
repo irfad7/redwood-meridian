@@ -109,8 +109,8 @@ export const ApplicationSubmittedPage = (): JSX.Element => {
 
           {/* Address */}
           <div className="text-center text-[#4d5256] text-sm leading-[19.6px]">
-            10880 Wilshire Blvd Suite 2000, <br />
-            Los Angeles, CA 90024
+            7104 Salisbury Rd.<br />
+            West Hills, CA 91307
           </div>
 
           {/* Links to Privacy Policy and Terms */}

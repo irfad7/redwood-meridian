@@ -144,8 +144,8 @@ export const TermsOfServicePage = (): JSX.Element => {
               </p>
               <p className="mt-2">
                 <strong>Redwood Meridian LLC</strong><br />
-                10880 Wilshire Blvd Suite 2000<br />
-                Los Angeles, CA 90024<br />
+                7104 Salisbury Rd.<br />
+                West Hills, CA 91307<br />
                 Email: <a href="mailto:support@redwoodmeridian.com" className="text-[#0e823e] hover:underline">support@redwoodmeridian.com</a>
               </p>
             </section>

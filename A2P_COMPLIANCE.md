@@ -14,7 +14,7 @@ To comply with A2P 10DLC registration requirements, all data collection forms no
 **Company Name:** Redwood Meridian LLC  
 **Domain:** redwoodmeridian.com  
 **Support Email:** support@redwoodmeridian.com  
-**Address:** 10880 Wilshire Blvd Suite 2000, Los Angeles, CA 90024
+**Address:** 7104 Salisbury Rd., West Hills, CA 91307
 
 ## Easy Toggle Configuration
 
