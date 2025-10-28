@@ -53,8 +53,9 @@ export const HomePage = (): JSX.Element => {
           <CallToActionSection />
           <div className="absolute top-4 md:top-8 left-1/2 transform -translate-x-1/2 z-10 pb-8 md:pb-12 lg:pb-16">
             <div className="flex items-center">
-              <h1 className="[font-family:'Playfair_Display',serif] text-[#0e823e] font-bold text-2xl md:text-3xl lg:text-4xl tracking-tight">
-                Redwood Meridian
+              <h1 className="[font-family:'Playfair_Display',serif] font-bold text-4xl md:text-5xl lg:text-6xl tracking-tight">
+                <span className="text-[#0c0c0c]">Redwood</span>{' '}
+                <span className="text-[#0e823e]">Meridian</span>
               </h1>
             </div>
           </div>
